@@ -17,6 +17,7 @@ int main()
         arr.push_back(arrayContent);
     }
 
+ cout << "Step by Step Process: " << endl;
    for (i = 0; i < n - 1; ++i)
     {
         int swapped = 0;
